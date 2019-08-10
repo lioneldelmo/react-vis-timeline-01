@@ -3,6 +3,7 @@ import Timeline from "react-visjs-timeline";
 
 const options = {
   width: "100%",
+  // height: "calc(100vh - 100px)",
   height: "150px",
   stack: false,
   editable: true,
